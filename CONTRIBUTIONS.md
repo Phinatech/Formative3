@@ -67,7 +67,6 @@ Source: https://www.kaggle.com/datasets/lydia70/education-in-africa?select=Educa
 
 **Key Deliverables:**
 - Handwritten gradient descent calculations (scanned/photographed)
-- `manual_calculator.py` to verify manual work
 - Clear documentation of chain rule application
 - Step-by-step gradient descent iterations
 
